@@ -1,7 +1,10 @@
 
 <?php
+/* 
 
-// new changes
+      Add files here!
+
+*/
 include "database.php";
     include "fileControl.php";
 

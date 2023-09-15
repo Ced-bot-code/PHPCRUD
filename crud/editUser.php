@@ -1,5 +1,8 @@
+
 <?php
-    include "database.php";
+
+// new changes
+include "database.php";
     include "fileControl.php";
 
     $getUserID = $_GET['userID'];
